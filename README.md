@@ -15,8 +15,7 @@ This includes (but is not limited to):
 ## Guidelines and rules
 Please make sure to read the [Code of Conduct](https://github.com/Game-DevOps/code-of-conduct).
 
-We welcome beginners and people interested in working in this field.
-* You may wish to join the #beginners channel.
+We welcome beginners and people interested in working in this field. You may wish to join the #beginners channel.
 
 This Slack is not a place to get insider information or leaks or debate the merits of various games. This is a professional space for getting help and discussing development techniques.
 
