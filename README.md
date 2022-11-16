@@ -21,4 +21,4 @@ This Slack is not a place to get insider information or leaks or debate the meri
 
 Slack channels are free, go ahead and make new ones as needed.
 
-
+Professional recruiting is allowed in #job-board-recruiters ONLY. Recruiting posts by regular members are allowed in #job-board ONLY.
