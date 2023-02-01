@@ -28,3 +28,5 @@ Slack channels are free, go ahead and make new ones as needed.
 Professional recruiting is allowed in #job-board-recruiters ONLY. Recruiting posts by regular members are allowed in #job-board ONLY.
 
 Please no advertising. It is okay to mention products you work on or recommend, but please no blatant marketing in channels or DMs.
+
+Questions or concerns? Feel free to hop into #admin-assist or to DM one of the admins - Guy Kisel and Shi Chen. Thanks!
